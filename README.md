@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AdrianMarten/Space%20Game%20-%20web/_apis/build/status%2FmartenAdrian.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/AdrianMarten/Space%20Game%20-%20web/_build/latest?definitionId=3&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
